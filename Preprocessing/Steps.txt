@@ -1,0 +1,7 @@
+1) Clean data
+2) Fix missing values
+3) Remove outliers
+4) Convert text to numbers
+5) Scale features
+6) Select important features
+7) Split into train/test
