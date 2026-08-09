@@ -5,3 +5,14 @@
 5) Scale features
 6) Select important features
 7) Split into train/test
+
+
+
+
+
+
+
+
+
+
+
